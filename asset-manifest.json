@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/the-hoi-polloi/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/the-hoi-polloi/static/js/main.ae02251c.chunk.js",
-    "main.js.map": "/the-hoi-polloi/static/js/main.ae02251c.chunk.js.map",
+    "main.css": "/the-hoi-polloi/static/css/main.959b4c4f.chunk.css",
+    "main.js": "/the-hoi-polloi/static/js/main.f7dc744a.chunk.js",
+    "main.js.map": "/the-hoi-polloi/static/js/main.f7dc744a.chunk.js.map",
     "runtime-main.js": "/the-hoi-polloi/static/js/runtime-main.b97964f5.js",
     "runtime-main.js.map": "/the-hoi-polloi/static/js/runtime-main.b97964f5.js.map",
     "static/js/2.f29f46f2.chunk.js": "/the-hoi-polloi/static/js/2.f29f46f2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.1c451c15.chunk.js": "/the-hoi-polloi/static/js/3.1c451c15.chunk.js",
     "static/js/3.1c451c15.chunk.js.map": "/the-hoi-polloi/static/js/3.1c451c15.chunk.js.map",
     "index.html": "/the-hoi-polloi/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/the-hoi-polloi/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.959b4c4f.chunk.css.map": "/the-hoi-polloi/static/css/main.959b4c4f.chunk.css.map",
     "static/js/2.f29f46f2.chunk.js.LICENSE.txt": "/the-hoi-polloi/static/js/2.f29f46f2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/the-hoi-polloi/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b97964f5.js",
     "static/js/2.f29f46f2.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.ae02251c.chunk.js"
+    "static/css/main.959b4c4f.chunk.css",
+    "static/js/main.f7dc744a.chunk.js"
   ]
 }
